@@ -1,6 +1,7 @@
-# Mechanical Engineering Project Template
+# Fowler Flaps Mechanism
 
-A reusable starting point for projects in the Mechanical Engineering Department. Use this repository as a template to organize a project’s mechanical design, electronics, software, machine skills, simulation, documentation, experiments, and publications.
+Term Project
+2103-322 Design of Mechanism – 2569
 
 ## Getting started
 
@@ -12,11 +13,13 @@ A reusable starting point for projects in the Mechanical Engineering Department.
 
 ## Project overview
 
-- **Project name:** [Enter project name]
+- **Project name:** Fowler Flaps Mechanism
 - **Problem / purpose:** [Describe the engineering need]
-- **Team:** [Names and responsibilities]
-- **Status:** Planning
-- **Last updated:** [YYYY-MM-DD]
+- **Team:**
+    6730144521  Nawat    Chindavijak
+    6730302321  Punjapol Chaimongkoltaworn
+- **Status:** Doing
+- **Last updated:** [2026-11-08]
 
 ## Repository structure
 
