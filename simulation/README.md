@@ -1,3 +1,3 @@
 # Simulation
 
-Include model files and scripts with solver settings, assumptions, boundary conditions, material properties, and instructions for reproducing results. Identify the software and version used.
+This directory contains the Simulink and Simscape Multibody model files used to simulate the constrained 3D motion of the Fowler Flap mechanism.
