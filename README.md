@@ -19,8 +19,8 @@ Term Project
 
 | Path | Purpose |
 |---|---|
-| `CAD/` | CAD models, drawings, and fabrication files |
-| `docs/` | Assembly, setup, operation, and maintenance instructions |
-| `media/` | Images, GIFs, and links to demonstration videos |
-| `software/` | PC or Raspberry Pi application code |
-| `simulation/` | Models, scripts, assumptions, and simulation results |
+| `CAD/` | CAD of each link and Assembly|
+| `docs/` | Document |
+| `media/` | demonstration videos |
+| `software/` | Symbolic Math File (MATLAB) |
+| `simulation/` | Simscape Multibody File |
