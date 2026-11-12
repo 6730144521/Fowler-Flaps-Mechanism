@@ -21,6 +21,6 @@ Term Project
 |---|---|
 | `CAD/` | CAD of each link and Assembly|
 | `docs/` | Document |
-| `media/` | demonstration videos |
+| `media/` | Demonstration videos |
 | `software/` | Symbolic Math File (MATLAB) |
 | `simulation/` | Simscape Multibody File |
