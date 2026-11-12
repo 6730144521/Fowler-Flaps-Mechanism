@@ -1,3 +1,3 @@
 # Media
 
-Store project images, GIFs, and concise clips here. Use descriptive filenames and captions; link to externally hosted videos from this README or a project page. Avoid duplicate or unnecessarily large exports.
+This directory contains the visual deliverables demonstrating the mechanism's structure and operating range. MATLAB_simulation.avi is animation from symbolic math with fanimation function and Multibody Simulation.avi is animation from Simscape Multibody.
