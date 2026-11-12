@@ -20,16 +20,7 @@ Term Project
 | Path | Purpose |
 |---|---|
 | `CAD/` | CAD models, drawings, and fabrication files |
-| `software/application/` | PC or Raspberry Pi application code |
-| `machine-skills/` | Machine commands, procedures, and skill instructions |
-| `simulation/` | Models, scripts, assumptions, and simulation results |
 | `docs/` | Assembly, setup, operation, and maintenance instructions |
 | `media/` | Images, GIFs, and links to demonstration videos |
-
-## Collaboration and file practices
-
-Use descriptive filenames and commit messages. Record units, revisions, software versions, and assumptions. Keep editable source files where practical. Avoid committing credentials, private data, temporary files, or duplicate exports. Consider Git LFS for large CAD, simulation, and video files.
-
-## Safety and validation
-
-Document hazards, safeguards, and operating limits before testing hardware. Validate important calculations and simulation results against measurements where practical.
+| `software/` | PC or Raspberry Pi application code |
+| `simulation/` | Models, scripts, assumptions, and simulation results |
