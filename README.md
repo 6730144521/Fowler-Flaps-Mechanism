@@ -3,21 +3,15 @@
 Term Project
 2103-322 Design of Mechanism – 2569
 
-## Getting started
-
-1. Select **Use this template** on GitHub to create a repository for your project.
-2. Rename the project in this README and update the project summary, team, and objectives.
-3. Review the folder READMEs and replace the examples with project-specific information.
-4. Create GitHub Issues for tasks and record important design decisions and test results.
-5. Check the license placeholder and select appropriate terms before sharing or reusing project work.
-
 ## Project overview
 
 - **Project name:** Fowler Flaps Mechanism
-- **Problem / purpose:** [Describe the engineering need]
+- **Problem / purpose:** Kinematic analysis, MATLAB symbolic modeling, and Simscape Multibody simulation of a 1-DOF Fowler Flap mechanism
 - **Team:**
-    - 6730144521  Nawat    Chindavijak        Kinematics Diagram, DOF Analysis and Simscape Multibody
-    - 6730302321  Punjapol Chaimongkoltaworn  CAD Design and Symbolic Mathematics (MATLAB)
+    - 6730144521  Nawat    Chindavijak
+        - Kinematics Diagram, DOF Analysis and Simscape Multibody
+    - 6730302321  Punjapol Chaimongkoltaworn
+        - CAD Design and Symbolic Mathematics (MATLAB)
 - **Status:** Doing
 - **Last updated:** [2026-11-12]
 
