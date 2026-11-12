@@ -16,17 +16,16 @@ Term Project
 - **Project name:** Fowler Flaps Mechanism
 - **Problem / purpose:** [Describe the engineering need]
 - **Team:**
-    6730144521  Nawat    Chindavijak,
-    6730302321  Punjapol Chaimongkoltaworn
+    - 6730144521  Nawat    Chindavijak        Kinematics Diagram, DOF Analysis and Simscape Multibody
+    - 6730302321  Punjapol Chaimongkoltaworn  CAD Design and Symbolic Mathematics (MATLAB)
 - **Status:** Doing
-- **Last updated:** [2026-11-08]
+- **Last updated:** [2026-11-12]
 
 ## Repository structure
 
 | Path | Purpose |
 |---|---|
-| `hardware/mechanical/` | CAD models, drawings, and fabrication files |
-| `software/firmware/` | Microcontroller code and board setup |
+| `CAD/` | CAD models, drawings, and fabrication files |
 | `software/application/` | PC or Raspberry Pi application code |
 | `machine-skills/` | Machine commands, procedures, and skill instructions |
 | `simulation/` | Models, scripts, assumptions, and simulation results |
